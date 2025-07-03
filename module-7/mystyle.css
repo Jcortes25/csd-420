@@ -1,0 +1,12 @@
+/* mystyle.css */
+.white-fill-black-stroke {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+#red-green {
+    -fx-fill: red;
+    -fx-stroke: green;
+    -fx-stroke-width: 2;
+}
